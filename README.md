@@ -5,6 +5,10 @@ In this project, we seek to observe how education or schooling impacts life expe
 
 # Steps to execute the code
 
+1. Download the csv
+2. Export the Python Notebook
+3. Execute the file
+4. Read through the powerpoint file
 
 
 ## Conclusion
