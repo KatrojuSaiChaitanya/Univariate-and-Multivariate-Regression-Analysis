@@ -1,5 +1,13 @@
 # Regression_Analysis
 
+## Introduction
+In this project, we seek to observe how education or schooling impacts life expectancy through regression analysis. For our null hypothesis, we assume that schooling and life expectancy have no relationship between each other. To test this hypothesis, we believe that a data-driven approach will be useful to obtain insights as currently , we do not have any insight into the relationship between education and life expectancy, or how they may impact each other.
+
+# Steps to execute the code
+
+
+
+## Conclusion
 Schooling greatly influences the life expectancy of a person. More so, in a developing country when compared to a developed country. Reason being, chances of accessing most of the new age amenities increases with education in developing countries, whereas, people already have access to better healthcare, better pharma, better standard of living by default in developed countries.
 
 A developing country is constantly educating themselves, making changes towards advancement and striving to make their amenities better, in turn offering a better chance at healthcare, hence we can expect a better effect of schooling on LE in a developing country over an already developed country.
