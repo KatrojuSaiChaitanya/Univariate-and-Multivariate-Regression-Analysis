@@ -1,1 +1,6 @@
 # Regression_Analysis
+
+Schooling greatly influences the life expectancy of a person. More so, in a developing country when compared to a developed country. Reason being, chances of accessing most of the new age amenities increases with education in developing countries, whereas, people already have access to better healthcare, better pharma, better standard of living by default in developed countries.
+
+A developing country is constantly educating themselves, making changes towards advancement and striving to make their amenities better, in turn offering a better chance at healthcare, hence we can expect a better effect of schooling on LE in a developing country over an already developed country.
+People in developed countries do not need to do schooling mandatorily to bring their life expectancy longer, there may be other factors that are driving them to live longer as we can see that people with least schooling live up to > 60 years, but for a person in developing country, they need to do 10 years of schooling to bring their lifeline above 60 years. A person who does 8 years of schooling in developed countries lives 14 years longer than a person who does the same years of schooling in undeveloped countries.
